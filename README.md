@@ -23,7 +23,8 @@ GitHub PDF viewer may fail to load some papers, but the files can be downloaded 
 │   ├── main_EN.tex
 │   └── main_KOR.tex
 ├── notebooks/
-│   └── TFBS.ipynb
+│   ├── TFBS.ipynb
+│   └── TFBSv2.ipynb
 ├── paper_EN.pdf
 ├── paper_KOR.pdf
 ├── README.md
